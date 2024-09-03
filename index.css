@@ -1,0 +1,47 @@
+body{
+    color: aliceblue;
+    background-color: rgb(68, 125, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+
+}
+
+a {
+    color: rgb(132, 185, 199);
+    text-decoration: none;
+    font-size: 200%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    width: 210px;
+    height: 300px;
+    border-radius: 20%;
+    border: solid white;
+    
+  
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: 140%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.container {
+    padding: 50px 500px
+}
